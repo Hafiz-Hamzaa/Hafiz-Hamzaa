@@ -1,12 +1,36 @@
-- 👋 Hi, I’m @Hafiz-Hamzaa
-- 👀 I’m interested in Programming...
-- 🌱 I’m currently learning Typescript to build an applications..
-- 💞️ I’m looking to collaborate on  many resources and platforms.
-- 📫 How to reach me follow my linkedin profile 💙💙Hafiz Hamza
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm John 👋  
+### A Front End Developer  
 
-<!---
-Hafiz-Hamzaa/Hafiz-Hamzaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## About Me  
+I'm a passionate web developer, constantly learning and building projects using modern web technologies. I love creating beautiful and responsive user interfaces!  
+
+---
+
+## 📫 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-hamza-009642289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Hafiz-Hamzaa)  
+
+---
+
+## 🛠️ Skills  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-teal?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+---
+
+## 🎯 What I'm working on  
+- 🌱 Currently learning **JavaScript and Full-Stack Development**
+- 🚀 Building responsive and interactive web applications  
+
+---
+
+## 🚀 Fun GIF  
+![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
