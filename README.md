@@ -12,7 +12,7 @@
 ---
 
 ## About Me  
-I'm a passionate web developer, constantly learning and building projects using modern web technologies. I love creating beautiful and responsive user interfaces!  
+I'm a passionate Front End Developer, constantly learning and building projects using modern web technologies. I love creating beautiful and responsive user interfaces!  
 
 ---
 
