@@ -49,5 +49,9 @@ I'm a passionate Front End Developer, constantly learning and building projects 
 ---
 
 ## 🚀 Fun GIF  
-![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+<p>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" alt="Developer GIF"/>
+</p>
+
 
