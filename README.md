@@ -1,5 +1,6 @@
 <h1 align="center" style="font-size: 3rem; font-weight: bold; color: #4f46e5;">
   Hi, I'm <span style="color: #0ea5e9;">Hamza</span> 👋
+  <h3 align="center">Welcome to my GitHub profile! 🚀</h3>
 </h1>
 <h1 style="font-size: 2.5rem; font-weight: bold; color: #0ea5e9;">
   🚀 Front End Developer 🚀
